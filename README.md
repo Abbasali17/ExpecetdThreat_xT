@@ -47,10 +47,10 @@ Inspired by concepts discussed by analysts like Karun Singh and others in the fo
 ![xT Surface](xt_surface_heatmap.png)
 
 **Density of High xT Actions (Start vs End Zones):**
-![Start/End Density](output_plots/start_end_density_heatmap.png)
+![Start/End Density](start_end_density_heatmap.png)
 
 **Player Contribution Breakdown:**
-![Player Breakdown](output_plots/player_xt_breakdown.png)
+![Player Breakdown](player_xt_breakdown.png)
 
 
 ## Setup and Installation
