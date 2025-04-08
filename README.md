@@ -44,7 +44,7 @@ Inspired by concepts discussed by analysts like Karun Singh and others in the fo
 *(These paths assume the images are saved in the `output_plots` subdirectory)*
 
 **xT Surface Heatmap:**
-![xT Surface](output_plots/xt_surface_heatmap.png)
+![xT Surface](xt_surface_heatmap.png)
 
 **Density of High xT Actions (Start vs End Zones):**
 ![Start/End Density](output_plots/start_end_density_heatmap.png)
